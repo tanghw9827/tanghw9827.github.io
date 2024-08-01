@@ -1,0 +1,24 @@
+.DS_Store
+Thumbs.db
+db.json
+*.log
+node_modules/
+public/
+.deploy*/
+_multiconfig.yml
+../CARLA_0913/
+../Planning-and-Control-based-on-Carla-and-ROS2/
+../WPS Cloud Files/
+../build/
+../course_shenlan/
+../install/
+../log/
+../matplotplusplus/
+../my course/
+../osqp-eigen/
+../osqp/
+../paper/
+../tanghw9827.github.io/
+../vehicle_heart/
+../xwechat_files/
+mnt/
