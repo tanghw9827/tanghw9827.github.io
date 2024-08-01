@@ -758,8 +758,8 @@ post:
   # Based on LeanCloud
   # See: https://valine.js.org/
   valine:
-    appId: '8m9N9Kn5CK6K1op9xdv7Ij9V-MdYXbMMI'
-    appKey: 'FVHAVAwSHL9MNMaYrhu3uMfm'
+    appId: 'yourLeanCloudAppId'
+    appKey: 'yourLeanCloudAppKey'
     path: window.location.pathname
     placeholder: '在这里输入评论...'
     avatar: 'retro'
@@ -769,12 +769,12 @@ post:
     lang: 'zh-CN'
     highlight: false
     recordIP: false
-    serverURLs: 'https://8m9n9kn5.api.lncldglobal.com'
-    emojiCDN: 'https://cdn.jsdelivr.net/npm/valine-repo@1.0.0/emojis/'
-    emojiMaps:
-      "大笑": "https://cdn.jsdelivr.net/gh/ReAlign/Valine-Comments@master/emojis/smile.png"
-      "心": "https://cdn.jsdelivr.net/gh/ReAlign/Valine-Comments@master/emojis/heart.png"
-    enableQQ: false
+  serverURLs: ''
+  emojiCDN: 'https://cdn.jsdelivr.net/npm/valine-repo@1.0.0/emojis/'
+  emojiMaps:
+    "大笑": "https://cdn.jsdelivr.net/gh/ReAlign/Valine-Comments@master/emojis/smile.png"
+    "心": "https://cdn.jsdelivr.net/gh/ReAlign/Valine-Comments@master/emojis/heart.png"
+  enableQQ: false
 
 
 #---------------------------

@@ -769,7 +769,7 @@ post:
     lang: 'zh-CN'
     highlight: false
     recordIP: false
-    serverURLs: 'https://8m9n9kn5.api.lncldglobal.com'
+    serverURLs: ''
     emojiCDN: 'https://cdn.jsdelivr.net/npm/valine-repo@1.0.0/emojis/'
     emojiMaps:
       "大笑": "https://cdn.jsdelivr.net/gh/ReAlign/Valine-Comments@master/emojis/smile.png"
