@@ -26,7 +26,7 @@ def resize_image(input_path, width_ratio):
     print(f"Resized image saved to {output_path}")
 
 # 设置输入图片路径和宽度比例
-input_image_path = '/home/sti/myblog/source/images/新证件照.png'
+input_image_path = '/home/sti//Documents/myblog/source/images/slip_angle.png'
 width_ratio = 0.75  # 比如将图片宽度调整为原始图片的50%
 
 # 调整图片大小
